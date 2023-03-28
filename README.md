@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NotFenixio
+- 👋 Hi there! I'm NotFenixio and i LOVE foxes 🦊💞
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning PHP and Python
 - 💞️ I’m looking to collaborate on some webpages!
