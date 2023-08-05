@@ -1,5 +1,5 @@
 # 🖼 About Me:
-Hello! I'm NotFenixio, a web dev!<br>Actually, i'm living and breathing in Spain. I like Doritos and foxes (if you didn't notice).<br>That's it.
+Hello! I'm NotFenixio, a web dev!<br>Actually, i'm living in Spain. I like foxes (if you didn't notice).<br>That's it.
 
 
 # 💻 Tech Stack:
