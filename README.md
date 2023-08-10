@@ -16,6 +16,6 @@ Hello! I'm NotFenixio, a web dev!<br>Actually, i'm living in Spain. I like foxes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://notfenixio.github.io/memeapi" width="512px"/>
+<img src="https://memeapi.notfenixio1.repl.co/" width="512px"/>
 
 <!-- Thanks to GPRM generator! (https://gprm.itsvg.in) -->
